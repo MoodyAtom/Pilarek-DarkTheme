@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PilarekDarkMode
-// @version      0.1
+// @version      2.0
 // @description  tryb czarny dla pilarka
 // @author       MoodyAtom
 // @match        https://pilarek-stepien.pl/lo9/plany/*
